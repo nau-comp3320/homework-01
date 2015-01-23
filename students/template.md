@@ -1,40 +1,22 @@
 # About me
 
-given_name surname <email_address>
+# Ergi Agolli 
 
-# Programming languages background
+# E-mail: eagolli@na.edu
 
-## Languages I have used
+# I have used C+, Java, Python, Html&CSS, JavaScript
 
-I have used…
+## I love Python because I like writing with python, and is getting so popular.
 
-## What is your favourite language?  Why?
+## I least-liked Java
 
-I love…
+## I would like to learn PHP and Ruby
 
-## What is your least-liked language?  Why?
+## I will use my own computer in the lab
 
-I dislike…
+## I will be using OS X operating system
 
-## Are there any particular languages that you want to learn?
+## I have used GitExtension before but not too mutch 
 
-I would like to learn…
+## My preferred editor is Text Wrangler.
 
-
-# Tools
-
-## Will you be using your own computer or using a lab?
-
-Own computer/lab
-
-## What operating system will you be using?
-
-Windows/OS X/Linux
-
-## Have you used a version control system before?  If so, which ones?
-
-I have used…
-
-## What is your preferred editor?
-
-I use…
