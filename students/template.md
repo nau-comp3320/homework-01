@@ -12,41 +12,41 @@ index 0000000..9aea40f
 @@ -0,0 +1,40 @@
 +# About me
 +
-+given_name surname <email_address>
++Enes Sevik enes.svk@gmail.com  
 +
 +# Programming languages background
-+
++Java and C.
 +## Languages I have used
 +
-+I have used…
++I have used Java and C.
 +
 +## What is your favourite language?  Why?
 +
-+I love…
++I love Java because it is easy than the others for me.
 +
 +## What is your least-liked language?  Why?
 +
-+I dislike…
++There is no language that I dislike.
 +
 +## Are there any particular languages that you want to learn?
 +
-+I would like to learn…
++I would like to learn Swift, PhP and Pyton.
 +
 +
 +# Tools
 +
 +## Will you be using your own computer or using a lab?
 +
-+Own computer/lab
++Own computer
 +
 +## What operating system will you be using?
 +
-+Windows/OS X/Linux
++OS X
 +
 +## Have you used a version control system before?  If so, which ones?
 +
-+I have used…
++Yes, I have used Github but I need to know more about it.
 +
 +## What is your preferred editor?
 +
-+I use…
++I didn't choose, yet. 
