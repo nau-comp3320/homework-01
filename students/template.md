@@ -13,40 +13,40 @@ index 0000000..9aea40f
 +# About me
 +
 +given_name surname <email_address>
-+
++ Mehmet ICME < mehmeticme42@gmail.com
 +# Programming languages background
-+
++ 
 +## Languages I have used
-+
++ Java and C languange also I am familiar with HTML&CSS
 +I have used…
 +
 +## What is your favourite language?  Why?
-+
++ My favorite language is JAVA
 +I love…
 +
 +## What is your least-liked language?  Why?
 +
-+I dislike…
++I do not dislike any language
 +
 +## Are there any particular languages that you want to learn?
 +
-+I would like to learn…
++I would like to learn languages related to Cyber Security
 +
 +
 +# Tools
 +
 +## Will you be using your own computer or using a lab?
 +
-+Own computer/lab
++Own computer
 +
 +## What operating system will you be using?
-+
-+Windows/OS X/Linux
++ 
++Windows
 +
 +## Have you used a version control system before?  If so, which ones?
 +
-+I have used…
++I have used… Github
 +
 +## What is your preferred editor?
 +
-+I use…
++I use… Netbeans
