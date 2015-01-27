@@ -13,39 +13,38 @@ index 0000000..9aea40f
 +# About me
 +
 +given_name surname <email_address>
-+
++Havvanur Ozgun  h922011@gmail.com
+
 +# Programming languages background
 +
-+## Languages I have used
-+
-+I have used…
++## Languages I have used Java and C
 +
 +## What is your favourite language?  Why?
 +
-+I love…
++I lovE C because I studied C more than Java.
 +
 +## What is your least-liked language?  Why?
 +
-+I dislike…
++I dislike Objective C because it seems more complicated.
 +
 +## Are there any particular languages that you want to learn?
 +
-+I would like to learn…
++I would like to learn C#.
 +
 +
 +# Tools
 +
 +## Will you be using your own computer or using a lab?
 +
-+Own computer/lab
++Own computer
 +
 +## What operating system will you be using?
 +
-+Windows/OS X/Linux
++OS X
 +
 +## Have you used a version control system before?  If so, which ones?
 +
-+I have used…
++I have not used…
 +
 +## What is your preferred editor?
 +
