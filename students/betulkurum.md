@@ -12,41 +12,41 @@ index 0000000..9aea40f
 @@ -0,0 +1,40 @@
 +# About me
 +
-+given_name surname <email_address>
++betul kurum <kurumbetul@hotmail.com>
 +
 +# Programming languages background
 +
-+## Languages I have used
++## Languages I have used 
 +
-+I have used…
++I have used c and java, a little bit python and html
 +
 +## What is your favourite language?  Why?
 +
-+I love…
++I love html because i interest in web design 
 +
 +## What is your least-liked language?  Why?
 +
-+I dislike…
++I dislike java because its complicate 
 +
 +## Are there any particular languages that you want to learn?
 +
-+I would like to learn…
++I would like to learn html 
 +
 +
 +# Tools
 +
 +## Will you be using your own computer or using a lab?
 +
-+Own computer/lab
++Own computer
 +
 +## What operating system will you be using?
 +
-+Windows/OS X/Linux
++OS X
 +
 +## Have you used a version control system before?  If so, which ones?
 +
-+I have used…
++I have used git
 +
 +## What is your preferred editor?
 +
-+I use…
++I use Xcode and textedit 
