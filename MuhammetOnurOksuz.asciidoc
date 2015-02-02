@@ -11,6 +11,22 @@ The purpose of this assignment is twofold:
 1. Introduce yourself to me so that I can better understand your background and what you hope to get from this course.
 2. Become familiar with the homework submission process
 
+<h1>Muhammet Onur Oksuz</h1>
+<img src="https://www.facebook.com/images/spacer.gif" alt="My Profile Picture" />
+<p>I'm Onur Oksuz</p>
+
+<p>I'm currently attending to North American University. My major is Computer Science. I like to develop and create new things. I mostly code on the web, using Java programming language. I'm improving myself everyday with the classes that I enroll at North American University. I do practice my classes every Tuesday and Thursday at Rice University Library. On Sundays and Thursdays I go to GYM and do my workout.</p>
+
+<p>I spend at least three hours a day working on web development. I enrolled the following classes, Javascript, PHP, HTML. CSS at codeacademy.com. Also I'm following the Laracasts's video tutorials about PHP language.</p>
+
+<h1>My Hobbies</h1>
+
+
+<ul>
+Playing with PSP.</ul>
+<ul><a href="http://www.ligtv.com.tr/mac-ozetleri/spor-toto-super-lig">Watching and playing soccer.</a></ul>
+<ul><a href="http://www.hbo.com/game-of-thrones">Watching Tv Series.</a></ul>
+</ul>
 
 Procedure
 ---------
