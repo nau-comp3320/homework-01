@@ -1,25 +1,33 @@
-homework00: Introduce yourself
-==============================
+About me 
+I am Muhammet Onur Oksuz
+e-mail: onuroksuzz@gmail.com
+Major: Computer Science
+Concentration: Software Engineering
 
-Due date:: End of day, 22 Jan 2015
+Programming languages background
+Java, C.
 
-Objectives
-----------
+Languages I have used 
+C, Java, PHP"
 
-The purpose of this assignment is twofold:
+What is your favourite language? Why? 
+Java, because I can create graphics in it.
 
-1. Introduce yourself to me so that I can better understand your background and what you hope to get from this course.
-2. Become familiar with the homework submission process
+What is your least-liked language? Why?
+C. It is so cloese to the machine language.
 
-Muhammet Onur Oksuz
+Are there any particular languages that you want to learn? 
+I'd like to learn Javascript
 
-I'm Onur Oksuz
+Tools 
+Will you be using your own computer or using a lab?
+I will be using my own computer
 
-I'm currently attending to North American University. My major is Computer Science. I like to develop and create new things. I mostly code on the web, using Java programming language. I'm improving myself everyday with the classes that I enroll at North American University. I do practice my classes every Tuesday and Thursday at Rice University Library. On Sundays and Thursdays I go to GYM and do my workout.
-<p>I spend at least three hours a day working on web development. I enrolled the following classes, Javascript, PHP, HTML. CSS at codeacademy.com. Also I'm following the Laracasts's video tutorials about PHP language.</p>
+What operating system will you be using?
+MAC OS
 
-My Hobbies
+Have you used a version control system before? If so, which ones? 
+Yes. Git
 
-Playing with PSP.
-Watching and playing soccer.
-Watching Tv Series.
+What is your preferred editor?
+Sublime Text and Netbeans
