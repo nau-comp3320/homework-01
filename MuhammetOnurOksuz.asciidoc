@@ -1,34 +1,47 @@
 About me
 
 I am Muhammet Onur Oksuz
+
 e-mail: onuroksuzz@gmail.com
+
 Major: Computer Science
+
 Concentration: Software Engineering
 
 Programming languages background
+
 Java, C.
 
 Languages I have used 
+
 C, Java, PHP"
 
 What is your favourite language? Why? 
+
 Java, because I can create graphics in it.
 
 What is your least-liked language? Why?
+
 C. It is so cloese to the machine language.
 
 Are there any particular languages that you want to learn? 
+
 I'd like to learn Javascript
 
 Tools 
+
 Will you be using your own computer or using a lab?
+
 I will be using my own computer
 
 What operating system will you be using?
+
 MAC OS
 
 Have you used a version control system before? If so, which ones? 
+
 Yes. Git
 
 What is your preferred editor?
+
 Sublime Text and Netbeans
